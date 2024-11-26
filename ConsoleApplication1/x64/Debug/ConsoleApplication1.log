@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Sergo\Desktop\Основы криптографических методов\Программы\лаб_3.1_крипта\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(66,17): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Sergo\Desktop\Основы криптографических методов\Программы\лаб_3.1_крипта\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(91,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\Sergo\Desktop\Основы криптографических методов\Программы\лаб_3.1_крипта\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
